@@ -2,8 +2,9 @@
 
 This project is about solving the following challenge:
 
-Challenge: Predict Students’ Ability to Repay Educational Loans
-Claire SmithInstructorProjects and Portfolio Ideas · 19 days ago
+##Challenge: Predict Students’ Ability to Repay Educational Loans
+Claire SmithInstructorProjects and Portfolio Ideas
+
 This challenge was provided by Michael Boerrigter
 
 The deadline for this challenge is October 27th 2017
